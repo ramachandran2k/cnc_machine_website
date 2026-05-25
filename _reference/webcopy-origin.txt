@@ -1,0 +1,740 @@
+Uri: https://demo.awaikenthemes.com/assets/videos/toplax-video.mp4
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\assets\videos\toplax-video.mp4
+Content Type: video/mp4
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/toplax/404.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\404.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/about.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\about.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/blog-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\blog-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/blog.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\blog.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/contact.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\contact.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/css/all.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\all.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/animate.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\animate.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/custom.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\custom.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/mousecursor.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\mousecursor.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/toplax/faqs.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\faqs.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/image-gallery.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\image-gallery.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/images/404-error-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\404-error-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/toplax/images/about-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\about-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/about-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\about-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/about-us-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\about-us-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/arrow-accent.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\arrow-accent.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/arrow-dark.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/arrow-white.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/author-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\author-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/blog-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/blog-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/client-testimonial-quote.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\client-testimonial-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/company-logo-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\company-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/company-logo-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\company-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/company-logo-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\company-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/company-logo-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\company-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/company-logo-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\company-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/contact-now-circle.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\contact-now-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/favicon.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/toplax/images/features-box-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\features-box-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/footer-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\footer-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-7.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-8.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/gallery-9.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\gallery-9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/genuine-rating-counter-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\genuine-rating-counter-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/hero-bg-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\hero-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/history-image-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\history-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-blockquote.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-check.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-features-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-features-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-features-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-features-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-features-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-features-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-location.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-location.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-mail-accent.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-mail-accent.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-mail.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-mission-nav.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-mission-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-phone-accent.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-phone-accent.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-phone.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-benefit-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-benefit-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-benefit-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-benefit-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-benefit-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-benefit-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-box-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-box-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-box-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-box-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-pricing-box-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-pricing-box-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-6.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-7.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-7.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-service-8.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-service-8.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-sub-heading.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-sub-heading.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-value-nav.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-value-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-vision-nav.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-vision-nav.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-who-we-do-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-who-we-do-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-who-we-do-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-who-we-do-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-who-we-do-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-who-we-do-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/icon-who-we-do-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\icon-who-we-do-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/loader.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/mission-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\mission-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-faqs-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-faqs-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-process-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-process-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-service-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-service-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-story-header-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-story-header-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-story-header-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-story-header-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/our-story-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\our-story-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/page-header-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/post-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-query-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-query-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/project-query-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\project-query-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/service-entry-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\service-entry-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/service-entry-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\service-entry-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/service-single-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\service-single-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-cta-bg-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-cta-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-project-detail-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-project-detail-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-project-detail-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-project-detail-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-project-detail-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-project-detail-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-project-detail-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-project-detail-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-project-detail-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-project-detail-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-team-detail-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-team-detail-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/sidebar-team-detail-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\sidebar-team-detail-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/story-client-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\story-client-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/story-client-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\story-client-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/story-client-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\story-client-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-7.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/team-8.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/testimonial-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\testimonial-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/toplax/images/testimonial-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\testimonial-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/value-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\value-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/vision-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\vision-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/images/what-we-do-bg.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\what-we-do-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/toplax/images/what-we-do-image.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\images\what-we-do-image.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/toplax/index-slider.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\index-slider.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/index-video.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\index-video.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/index.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\index.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/function.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\function.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/isotope.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/magiccursor.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\magiccursor.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/SplitText.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\SplitText.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/validator.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/js/wow.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\js\wow.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/toplax/pricing.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\pricing.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/project-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\project-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/projects.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\projects.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/service-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\service-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/services.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\services.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/team-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\team-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/team.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\team.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/testimonial.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\testimonial.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/video-gallery.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\video-gallery.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/toplax/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\toplax\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
