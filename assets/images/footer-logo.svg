@@ -1,7 +1,13 @@
-﻿<svg width="320" height="80" viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 55.5L14 45.5L22 53.5L12 63.5L4 55.5ZM4 35.5L14 25.5L22 33.5L12 43.5L4 35.5ZM4 15.5L14 5.5L22 13.5L12 23.5L4 15.5Z" fill="#FF9900"/>
-<path d="M30 68L48 28H60L71 49L82 28H94L112 68H100L90.5 47L81 68H72.5L63 47L53.5 68H30Z" fill="#FFFFFF"/>
-<text x="124" y="36" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">MACHNIX</text>
-<text x="126" y="58" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="800" letter-spacing="6" fill="#FF9900">ENGINEERING</text>
-<rect x="126" y="64" width="116" height="3" rx="1.5" fill="#FF9900"/>
+﻿<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g fill="#FFFFFF">
+<polygon points="100,20 200,190 160,190 80,60 50,140 10,140 80,20" />
+</g>
+<g stroke="#FF9900" stroke-width="12" stroke-linecap="round">
+<line x1="70" y1="50" x2="95" y2="120" />
+<line x1="95" y1="50" x2="120" y2="120" />
+<line x1="120" y1="50" x2="145" y2="120" />
+</g>
+<text x="280" y="130" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="900" fill="#FFFFFF" letter-spacing="10">MACHNIX</text>
+<text x="290" y="175" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF" letter-spacing="15">ENGINEERING</text>
+<rect x="290" y="188" width="600" height="10" fill="#FF9900" />
 </svg>
