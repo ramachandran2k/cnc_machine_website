@@ -6600,9 +6600,13 @@ header.main-header .header-sticky.active{
 .topbar-contact-info ul{
 	margin-right: 34px;
 	padding-right: 34px;
+	display: flex;
+	align-items: center;
+	gap: 28px;
 }
 
 .topbar-contact-info ul li .icon-box{
+	flex: 0 0 42px;
 	width: 42px;
 	height: 42px;
 	border-radius: 50%;
@@ -6617,6 +6621,24 @@ header.main-header .header-sticky.active{
 	font-size: 17px;
 	line-height: 1.25em;
 	letter-spacing: 0;
+	width: auto;
+	white-space: nowrap;
+}
+
+.topbar-contact-info ul li{
+	margin-right: 0;
+}
+
+.topbar-contact-info ul li a{
+	justify-content: flex-start;
+}
+
+.topbar-contact-info ul li:first-child{
+	min-width: 190px;
+}
+
+.topbar-contact-info ul li:last-child{
+	min-width: 390px;
 }
 
 .navbar{
@@ -6754,6 +6776,16 @@ header.main-header .header-sticky.active{
 	.topbar-contact-info ul{
 		margin-right: 22px;
 		padding-right: 22px;
+		gap: 18px;
+	}
+
+	.topbar-contact-info ul li:first-child,
+	.topbar-contact-info ul li:last-child{
+		min-width: auto;
+	}
+
+	.topbar-contact-info ul li p{
+		font-size: 15px;
 	}
 
 	.hero{
