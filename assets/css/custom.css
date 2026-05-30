@@ -6436,7 +6436,7 @@ header.main-header .header-sticky.active{
 	max-height: 72px;
 }
 
-.alpha-page-title{
+.machnix-page-title{
 	color: var(--white-color);
 	font-size: 70px;
 	font-weight: 800;
@@ -6445,11 +6445,11 @@ header.main-header .header-sticky.active{
 	text-transform: capitalize;
 }
 
-.alpha-page-title span{
+.machnix-page-title span{
 	color: var(--accent-color);
 }
 
-.alpha-services-intro{
+.machnix-services-intro{
 	display: grid;
 	grid-template-columns: 1.15fr 0.85fr;
 	gap: 40px;
@@ -6459,7 +6459,7 @@ header.main-header .header-sticky.active{
 	border-bottom: 1px solid var(--divider-color);
 }
 
-.alpha-services-intro span{
+.machnix-services-intro span{
 	color: var(--accent-color);
 	font-size: 14px;
 	font-weight: 800;
@@ -6467,21 +6467,21 @@ header.main-header .header-sticky.active{
 	text-transform: uppercase;
 }
 
-.alpha-services-intro h2{
+.machnix-services-intro h2{
 	font-size: 42px;
 	line-height: 1.15em;
 	margin: 12px 0 0;
 	max-width: 820px;
 }
 
-.alpha-services-intro p{
+.machnix-services-intro p{
 	color: var(--text-color);
 	margin: 0;
 	font-size: 17px;
 	line-height: 1.65em;
 }
 
-.page-services .alpha-service-card{
+.page-services .machnix-service-card{
 	min-height: 330px;
 	padding: 38px 34px;
 	display: flex;
@@ -6493,12 +6493,12 @@ header.main-header .header-sticky.active{
 	transition: all 0.3s ease-in-out;
 }
 
-.page-services .alpha-service-card:hover{
+.page-services .machnix-service-card:hover{
 	transform: translateY(-6px);
 	box-shadow: 0 20px 44px rgba(0, 0, 0, 0.11);
 }
 
-.page-services .alpha-service-card .icon-box{
+.page-services .machnix-service-card .icon-box{
 	width: 72px;
 	height: 72px;
 	border-radius: 14px;
@@ -6509,25 +6509,25 @@ header.main-header .header-sticky.active{
 	margin-bottom: 28px;
 }
 
-.page-services .alpha-service-card .service-body h3{
+.page-services .machnix-service-card .service-body h3{
 	margin-bottom: 16px;
 	text-transform: capitalize;
 	font-size: 24px;
 	line-height: 1.2em;
 }
 
-.page-services .alpha-service-card .service-body p{
+.page-services .machnix-service-card .service-body p{
 	color: var(--text-color);
 	font-size: 16px;
 	line-height: 1.6em;
 	margin: 0;
 }
 
-.page-services .alpha-service-card:hover .service-body p{
+.page-services .machnix-service-card:hover .service-body p{
 	color: var(--white-color);
 }
 
-.page-services .alpha-service-card .service-footer{
+.page-services .machnix-service-card .service-footer{
 	margin-top: 30px;
 }
 
@@ -6541,16 +6541,16 @@ header.main-header .header-sticky.active{
 		max-width: 200px;
 	}
 
-	.alpha-page-title{
+	.machnix-page-title{
 		font-size: 52px;
 	}
 
-	.alpha-services-intro{
+	.machnix-services-intro{
 		grid-template-columns: 1fr;
 		gap: 18px;
 	}
 
-	.alpha-services-intro h2{
+	.machnix-services-intro h2{
 		font-size: 34px;
 	}
 }
@@ -6567,15 +6567,15 @@ header.main-header .header-sticky.active{
 		max-height: 54px;
 	}
 
-	.alpha-page-title{
+	.machnix-page-title{
 		font-size: 38px;
 	}
 
-	.alpha-services-intro h2{
+	.machnix-services-intro h2{
 		font-size: 28px;
 	}
 
-	.page-services .alpha-service-card{
+	.page-services .machnix-service-card{
 		min-height: auto;
 		padding: 30px 24px;
 	}
@@ -6634,11 +6634,11 @@ header.main-header .header-sticky.active{
 }
 
 .topbar-contact-info ul li:first-child{
-	min-width: 190px;
+	min-width: 245px;
 }
 
 .topbar-contact-info ul li:last-child{
-	min-width: 390px;
+	min-width: 430px;
 }
 
 .navbar{
@@ -6758,6 +6758,36 @@ header.main-header .header-sticky.active{
 
 .footer-header{
 	padding-bottom: 42px;
+}
+
+.machnix-quality-card{
+	background: var(--white-color);
+	border: 1px solid var(--divider-color);
+	border-radius: 18px;
+	padding: 30px;
+	box-shadow: 0 14px 38px rgba(0, 0, 0, 0.06);
+}
+
+.machnix-quality-card h3{
+	font-size: 24px;
+	font-weight: 800;
+	margin-bottom: 14px;
+	color: var(--primary-color);
+}
+
+.machnix-quality-card p{
+	margin: 0;
+	color: var(--text-color);
+	line-height: 1.65em;
+}
+
+.machnix-value-counters .our-story-counter h3{
+	font-size: 24px;
+	line-height: 1.2em;
+}
+
+.machnix-value-counters .our-story-counter p{
+	max-width: 240px;
 }
 
 @media only screen and (max-width: 991px){
