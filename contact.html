@@ -30,86 +30,10 @@
 	<link rel="stylesheet" href="assets/css/mousecursor.css">
 	<!-- Main Custom Css -->
 	<link href="assets/css/custom.css" rel="stylesheet" media="screen">
+    <script src="assets/js/common-layout.js"></script>
 </head>
 <body>
-
-    <!-- Preloader Start -->
-	<div class="preloader">
-		<div class="loading-container">
-			<div class="loading"></div>
-			<div id="loading-icon"><img src="assets/images/loader.svg" alt=""></div>
-		</div>
-	</div>
-	<!-- Preloader End -->
-
-    <!-- Topbar Section Start -->
-    <div class="topbar">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-3">
-                    <div class="site-logo">
-                        <a href="index.html">
-                            <img src="assets/images/machnix-logo-black.png" alt="MACHNIX ENGINEERING (M) SDN BHD">
-                        </a>
-                    </div>
-					<!-- Logo End -->
-                </div>
-
-                <div class="col-lg-9 col-md-12">
-                    <!-- Topbar Contact Information Start -->
-                    <div class="topbar-contact-info">
-                        <ul>
-                            <li>
-                                <a href="tel:+60104612145"><div class="icon-box"><img src="assets/images/icon-phone.svg" alt=""></div><p>+60 10 461 2145</p></a>
-                            </li>
-                            <li>
-                                <a href="mailto:machnixengineering2025@gmail.com"><div class="icon-box"><img src="assets/images/icon-mail.svg" alt=""></div><p>machnixengineering2025@gmail.com</p></a>
-                            </li>
-                        </ul>
-                        <!-- Topbar Qoute Button Start -->
-                        <div class="topbar-qoute-btn">
-                            <a href="contact.html" class="btn-default"><span>Get Quote</span></a>
-                        </div>
-                        <!-- Topbar Qoute Button End -->
-                    </div>
-                    <!-- Topbar Contact Information End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar Section End -->
-
-    <!-- Header Start -->
-	<header class="main-header">
-		<div class="header-sticky">
-			<nav class="navbar navbar-expand-lg">
-				<div class="container">
-                    <!-- Logo Start -->
-					<a class="navbar-brand" href="index.html">
-						<img src="assets/images/machnix-logo-white.png" alt="MACHNIX ENGINEERING (M) SDN BHD">
-					</a>
-					<!-- Logo End -->
-
-					<!-- Main Menu Start -->
-					<div class="collapse navbar-collapse main-menu">
-                        <div class="nav-menu-wrapper">
-                                                        <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                                <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
-                            </ul>
-                        </div>
-</div>
-					<!-- Main Menu End -->
-					<div class="navbar-toggle"></div>
-				</div>
-			</nav>
-			<div class="responsive-menu"></div>
-		</div>
-	</header>
-	<!-- Header End -->
+    <script>renderSiteHeader();</script>
 
     <!-- Page Header Start -->
 	<div class="page-header parallaxie">
@@ -242,6 +166,34 @@
     </div>
     <!--  Page Contact Us End -->
 
+    <!-- Quality Commitment Section Start -->
+    <div class="quality-commitment-section">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">quality commitment</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Reliable engineering solutions with <span>strict quality standards</span></h2>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
+                        <p>At MACHNIX ENGINEERING, quality is our top priority. We maintain high manufacturing standards through continuous process improvement, advanced machining technology and strict quality inspection procedures.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-md-6"><div class="quality-commitment-item wow fadeInUp"><h3>Strict Quality Control</h3><p>Inspection-focused production to meet customer specifications and industrial standards.</p></div></div>
+                <div class="col-lg-3 col-md-6"><div class="quality-commitment-item wow fadeInUp" data-wow-delay="0.15s"><h3>Advanced Technology</h3><p>Modern machining capability for accurate, consistent and reliable engineering output.</p></div></div>
+                <div class="col-lg-3 col-md-6"><div class="quality-commitment-item wow fadeInUp" data-wow-delay="0.3s"><h3>On-Time Delivery</h3><p>Practical planning and dependable execution for smooth job completion.</p></div></div>
+                <div class="col-lg-3 col-md-6"><div class="quality-commitment-item wow fadeInUp" data-wow-delay="0.45s"><h3>Customer Support</h3><p>Responsive support to build strong and long-term customer partnerships.</p></div></div>
+            </div>
+        </div>
+    </div>
+    <!-- Quality Commitment Section End -->
+
     <!-- Google Map Start -->
     <div class="google-map">
         <div class="container-flude">
@@ -257,110 +209,7 @@
         </div>
     </div>
     <!-- Google Map End -->
-
-    <!-- Footer Start -->
-    <footer class="main-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Footer Header Start -->
-                    <div class="footer-header">
-                        <!-- Section Title Start -->
-                        <div class="section-title dark-section">
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Ready to start your CNC project?</h2>
-                            <p>Share your drawing, sample or requirement and our team will respond with practical manufacturing support.</p>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Footer Contact Circle Start -->
-                        <div class="footer-contact-circle">
-                            <img src="assets/images/contact-now-circle.svg" alt="">
-                        </div>
-                        <!-- Footer Contact Circle End -->
-                    </div>
-                    <!-- Footer Header End -->                  
-                </div>
-                
-                <div class="col-lg-6 col-md-12">
-                    <!-- About Footer Start -->
-                    <div class="about-footer">
-                        <!-- Footer Logo Start -->
-                        <div class="footer-logo">
-                            <img src="assets/images/machnix-logo-white.png" alt="MACHNIX ENGINEERING (M) SDN BHD">
-                        </div>
-                        <!-- Footer Logo End -->
-
-                        <!-- About Footer Content Start -->
-                        <div class="about-footer-content">
-                            <p>Precision engineering, CNC machining, tooling solutions and industrial manufacturing support.</p>
-                        </div>           
-                        <!-- About Footer Content End -->
-</div>
-                    <!-- About Footer End -->
-                </div>
-                
-                <div class="col-lg-2 col-md-4 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>quick links</h3>
-                        <ul>
-                            <li><a href="index.html">home</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="projects.html">projects</a></li>
-                            <li><a href="contact.html">contact us</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-6">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Services</h3>
-                        <ul>
-                            <li><a href="services.html">Lathe machining precision parts</a></li>
-                            <li><a href="services.html">Milling machining precision parts</a></li>
-                            <li><a href="services.html">Die and mould manufacturing</a></li>
-                            <li><a href="services.html">Jig & fixture</a></li>
-                            <li><a href="services.html">Reverse engineering design</a></li>
-                            <li><a href="services.html">3D printing</a></li>
-                            <li><a href="services.html">Metal surface treatment</a></li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-
-                <div class="col-lg-2 col-md-4 col-12">
-                    <!-- Footer Links Start -->
-                    <div class="footer-links">
-                        <h3>Contact</h3>
-                        <ul>
-                            <li><a href="tel:+60104612145">+60 10 461 2145</a></li>
-                            <li><a href="mailto:machnixengineering2025@gmail.com">machnixengineering2025@gmail.com</a></li>
-                            <li>31, Tingkat Kikik 7, Taman Inderawasih, 13600 Perai, Penang, Malaysia</li>
-                        </ul>
-                    </div>
-                    <!-- Footer Links End -->
-                </div>
-            </div>
-
-            <!-- Footer Copyright Section Start -->
-            <div class="footer-copyright">
-                <div class="row align-items-center">
-                    <div class="col-lg-12">
-                        <!-- Footer Copyright Start -->
-                        <div class="footer-copyright-text">
-                            <p>Copyright &copy; 2026 MACHNIX ENGINEERING (M) SDN BHD. All Rights Reserved.</p>
-                        </div>
-                        <!-- Footer Copyright End -->
-                    </div>
-                </div>
-            </div>
-            <!-- Footer Copyright Section End -->
-        </div>
-     </footer>
-    <!-- Footer End -->
+    <script>renderSiteFooter();</script>
 
     <!-- Jquery Library File -->
     <script src="assets/js/jquery-3.7.1.min.js"></script>
@@ -397,4 +246,9 @@
     <script src="assets/js/function.js"></script>
 </body>
 </html>
+
+
+
+
+
 

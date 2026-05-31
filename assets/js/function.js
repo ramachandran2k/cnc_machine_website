@@ -305,38 +305,6 @@
 	}
 	/* Contact form validation end */
 
-	/* Our Project (filtering) Start */
-	$window.on( "load", function(){
-		if( $(".project-item-boxes").length ) {
-				
-			/* Init Isotope */
-			var $menuitem = $(".project-item-boxes").isotope({
-				itemSelector: ".project-item-box",
-				layoutMode: "masonry",
-				masonry: {
-					// use outer width of grid-sizer for columnWidth
-					columnWidth: 1,
-				}
-			});
-				
-			/* Filter items on click */
-			var $menudisesnav=$(".our-Project-nav li a");
-				$menudisesnav.on('click', function (e) { 
-			
-				var filterValue = $(this).attr('data-filter');
-				$menuitem.isotope({
-					filter: filterValue
-				}); 
-				
-				$menudisesnav.removeClass("active-btn"); 
-				$(this).addClass("active-btn");
-				e.preventDefault();
-			});		
-			$menuitem.isotope({ filter: "*" });
-		}			
-	});
-	/* Our Project (filtering) End */
-
 	/* Animated Wow Js */	
 	new WOW().init();
 
