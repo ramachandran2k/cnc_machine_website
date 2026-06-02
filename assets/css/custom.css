@@ -871,7 +871,7 @@ header.main-header .header-sticky.active{
 .hero{
 	padding: 150px 0 40px;
 	position: relative;
-	background: url('../images/hero-bg.jpg') no-repeat;
+	background: url('../../WEBSITE/milling%20components/precision-cnc-machined-parts-workbench.jpg.jpeg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	overflow: hidden;
@@ -1159,7 +1159,7 @@ header.main-header .header-sticky.active{
 }
 
 .genuine-rating-counter .about-counter h2{
-    background: url('../images/genuine-rating-counter-bg.jpg');
+    background: url('../../WEBSITE/die%20%26%20mould/Mold-Component-CMM-scaled.jpg');
     background-size: cover;
 	background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1201,7 +1201,7 @@ header.main-header .header-sticky.active{
 .our-services{
 	position: relative;
 	padding: 100px 0 280px;
-	background: url('../images/our-service-bg.jpg') no-repeat center center;
+	background: url('../../WEBSITE/Turning/metalworking-cnc-milling-machine-cutting-metal-modern-processing-technology-small-depth-field-warning-authentic-shooting-challenging-conditions-little-bit-grain-maybe-blurred%20(1).jpg.jpeg') no-repeat center center;
 	background-size: cover;
 }
 
@@ -2373,7 +2373,7 @@ header.main-header .header-sticky.active{
 
 .page-header{
 	position: relative;
-	background: url('../images/page-header-bg.jpg') no-repeat center center;
+	background: url('../../WEBSITE/milling/computer-numerical-control-machine-while-cutting-sample-part.jpg.jpeg') no-repeat center center;
 	background-size: cover;
 	padding: 150px 0;
 	overflow: hidden;
@@ -2443,7 +2443,7 @@ header.main-header .header-sticky.active{
 
 .mission-vision-bg{
 	position: relative;
-	background: url('../images/our-service-bg.jpg');
+	background: url('../../WEBSITE/Turning/metalworking-cnc-milling-machine-cutting-metal-modern-processing-technology-small-depth-field-warning-authentic-shooting-challenging-conditions-little-bit-grain-maybe-blurred%20(1).jpg.jpeg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -3165,7 +3165,7 @@ header.main-header .header-sticky.active{
 
 .sidebar-cta-box{
 	position: relative;
-	background-image: url(../images/sidebar-cta-bg-img.jpg);
+	background-image: url(../../WEBSITE/milling/istockphoto-495750960-612x612.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -6809,9 +6809,9 @@ header.main-header .header-sticky.active{
 .excellence-innovating-list{
 	margin-top: 115px;
 	padding: 22px 0;
-	border: 1px solid rgba(255, 255, 255, 0.18);
+	border: 1px solid rgba(7, 85, 159, 0.12);
 	border-radius: 14px;
-	background: rgba(18, 18, 18, 0.72);
+	background: var(--white-color);
 	backdrop-filter: blur(10px);
 	overflow: hidden;
 	max-width: 100%;
@@ -6839,8 +6839,8 @@ header.main-header .header-sticky.active{
 .excellence-innovating-list ul li{
 	flex: 0 0 auto;
 	font-size: 15px;
-	font-weight: 600;
-	color: rgba(255, 255, 255, 0.94);
+	font-weight: 800;
+	color: var(--primary-color);
 	white-space: nowrap;
 }
 
