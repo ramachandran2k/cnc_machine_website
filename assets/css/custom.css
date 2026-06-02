@@ -1,4 +1,4 @@
-/* ----------------------------------------------------------------------------------------
+﻿/* ----------------------------------------------------------------------------------------
 * Author        : Awaiken
 * Template Name : Toplax - Factory & Industry HTML Template
 * File          : CSS File
@@ -874,6 +874,7 @@ header.main-header .header-sticky.active{
 	background: url('../images/hero-bg.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
+	overflow: hidden;
 }
 
 .hero::before{
@@ -888,6 +889,31 @@ header.main-header .header-sticky.active{
     width: 100%;
     height: 100%;
     z-index: 1;
+}
+
+.hero > .container{
+	position: relative;
+	z-index: 2;
+}
+
+.machnix-heading-video{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	overflow: hidden;
+	pointer-events: none;
+}
+
+.machnix-heading-video video{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
 }
 
 .hero.hero-video .hero-bg-video{
@@ -2350,6 +2376,7 @@ header.main-header .header-sticky.active{
 	background: url('../images/page-header-bg.jpg') no-repeat center center;
 	background-size: cover;
 	padding: 150px 0;
+	overflow: hidden;
 }
 
 .page-header::before{
@@ -2363,12 +2390,12 @@ header.main-header .header-sticky.active{
 	background: linear-gradient(270deg, rgba(0, 0, 0, 0) 23.99%, rgba(0, 0, 0, 0.8) 100%);
     width: 100%;
     height: 100%;
-    z-index: 0;
+    z-index: 1;
 }
 
 .page-header-box{
 	position: relative;
-	z-index: 1;
+	z-index: 2;
 }
 
 .page-header-box h1{
@@ -7214,4 +7241,261 @@ header.main-header .header-sticky.active{
 	.service-detail-content h2{
 		font-size: 30px;
 	}
+}
+
+/* ====================================================================
+   SERVICE CARDS  –  Photo-only, no SVG icons  (responsive)
+   ==================================================================== */
+
+/* ---------- card wrapper ---------- */
+.page-services .service-item {
+    padding: 0;
+    overflow: hidden;
+    border-radius: 20px;
+    border: 1px solid var(--divider-color);
+    height: calc(100% - 30px);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.page-services .service-item:hover {
+    border-color: #e0e0e0;
+    box-shadow: 0 12px 40px rgba(7, 85, 159, 0.13);
+    transform: translateY(-5px);
+}
+
+/* ---------- top photo ---------- */
+.service-card-photo {
+    position: relative;
+    width: 100%;
+    height: 230px;
+    overflow: hidden;
+    flex-shrink: 0;
+    border-radius: 20px 20px 0 0;
+}
+
+.service-card-photo figure {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.service-card-photo figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.55s ease;
+}
+
+.page-services .service-item:hover .service-card-photo figure img {
+    transform: scale(1.07);
+}
+
+/* ---------- body + footer padding (icon removed) ---------- */
+.page-services .service-item .service-body {
+    padding: 22px 26px 10px;
+    flex: 1;
+}
+
+.page-services .service-item .service-footer {
+    padding: 0 26px 22px;
+}
+
+/* hide any leftover icon-box inside page-services */
+.page-services .service-item .icon-box {
+    display: none;
+}
+
+/* ====================================================================
+   SERVICE DETAIL PAGE  –  Photo gallery  (responsive)
+   ==================================================================== */
+
+.service-photo-gallery {
+    margin-top: 36px;
+}
+
+.service-photo-gallery > h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 14px;
+    color: var(--primary-color);
+}
+
+.service-gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.service-gallery-grid .gallery-item {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    aspect-ratio: 4 / 3;
+}
+
+.service-gallery-grid .gallery-item.gallery-wide {
+    grid-column: span 2;
+}
+
+.service-gallery-grid .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+}
+
+.service-gallery-grid .gallery-item:hover img {
+    transform: scale(1.07);
+}
+
+.service-gallery-grid .gallery-item::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(7, 85, 159, 0.28) 0%, transparent 55%);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.35s ease;
+}
+
+.service-gallery-grid .gallery-item:hover::after {
+    opacity: 1;
+}
+
+/* ====================================================================
+   RESPONSIVE  –  Service Cards
+   ==================================================================== */
+
+/* tablet: md – 2 columns */
+@media (max-width: 991px) {
+    .service-card-photo {
+        height: 200px;
+    }
+}
+
+/* mobile: sm – 1 column stacked */
+@media (max-width: 767px) {
+    .service-card-photo {
+        height: 220px;
+    }
+
+    .page-services .service-item {
+        margin-bottom: 20px;
+        height: auto;
+    }
+}
+
+/* small phones */
+@media (max-width: 480px) {
+    .service-card-photo {
+        height: 185px;
+    }
+
+    .page-services .service-item .service-body {
+        padding: 16px 18px 8px;
+    }
+
+    .page-services .service-item .service-footer {
+        padding: 0 18px 18px;
+    }
+}
+
+/* ====================================================================
+   RESPONSIVE  –  Service Gallery
+   ==================================================================== */
+
+@media (max-width: 767px) {
+    .service-gallery-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+    }
+
+    .service-gallery-grid .gallery-item.gallery-wide {
+        grid-column: span 2;
+    }
+}
+
+@media (max-width: 480px) {
+    .service-gallery-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .service-gallery-grid .gallery-item.gallery-wide {
+        grid-column: span 1;
+    }
+}
+
+/* ====================================================================
+   FOOTER  –  White background, blue text
+   ==================================================================== */
+
+.main-footer {
+    background: #ffffff !important;
+    border-top: 2px solid var(--divider-color);
+}
+
+/* Divider lines inside footer */
+.footer-header {
+    border-bottom-color: var(--divider-color);
+}
+
+.footer-copyright {
+    border-top-color: var(--divider-color);
+}
+
+/* Section heading & text in footer header */
+.footer-header .section-title h2,
+.footer-header .section-title h2 span {
+    color: var(--primary-color) !important;
+}
+
+.footer-header .section-title p {
+    color: var(--text-color) !important;
+}
+
+/* About footer text */
+.about-footer-content p {
+    color: var(--text-color) !important;
+}
+
+/* Logo legal text */
+.logo-legal-light {
+    color: var(--text-color) !important;
+}
+
+/* Footer column headings (Quick Links, Services, Contact) */
+.footer-links h3 {
+    color: var(--primary-color) !important;
+}
+
+/* Footer link items text */
+.footer-links ul li {
+    color: var(--text-color) !important;
+}
+
+.footer-links ul li a {
+    color: var(--text-color) !important;
+}
+
+.footer-links ul li:hover a {
+    color: var(--accent-color) !important;
+}
+
+/* Copyright text */
+.footer-copyright-text p {
+    color: var(--text-color) !important;
+}
+
+/* Social icons border */
+.footer-social-links ul li a {
+    border-color: var(--divider-color);
+}
+
+.footer-social-links ul li:hover a {
+    border-color: var(--primary-color);
 }

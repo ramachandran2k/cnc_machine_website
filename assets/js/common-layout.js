@@ -136,7 +136,7 @@ const SITE_FOOTER = String.raw`
                         <ul>
                             <li><a href="tel:+60104612145">+60 10 461 2145</a></li>
                             <li><a href="mailto:machnixengineering2025@gmail.com">machnixengineering2025@gmail.com</a></li>
-                            <li>31, Tingkat Kikik 7, Taman Inderawasih, 13600 Perai, Penang, Malaysia</li>
+                            <li>No. 5, Lorong Perwira 3, Taman Perwira, 14100 Simpang Ampat, Pulau Pinang, Malaysia</li>
                         </ul>
                     </div>
                 </div>
@@ -161,4 +161,25 @@ function renderSiteHeader() {
 
 function renderSiteFooter() {
     document.write(SITE_FOOTER);
+}
+
+function addMachnixHeadingVideos() {
+    var videoTargets = document.querySelectorAll('.hero, .page-header');
+
+    videoTargets.forEach(function (target) {
+        if (target.querySelector('.machnix-heading-video')) {
+            return;
+        }
+
+        var videoWrap = document.createElement('div');
+        videoWrap.className = 'machnix-heading-video';
+        videoWrap.innerHTML = '<video autoplay muted loop playsinline preload="metadata"><source src="assets/videos/machnix-cnc-heading.mp4" type="video/mp4"></video>';
+        target.insertBefore(videoWrap, target.firstChild);
+    });
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', addMachnixHeadingVideos);
+} else {
+    addMachnixHeadingVideos();
 }
