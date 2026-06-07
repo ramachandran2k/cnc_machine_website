@@ -119,7 +119,7 @@ const SITE_FOOTER = String.raw`
                     <div class="footer-links">
                         <h3>Services</h3>
                         <ul>
-                            <li><a href="lathe-machining-precision-parts.html">Lathe machining precision parts</a></li>
+                            <li><a href="turning-machining-precision-parts.html">Turning machining precision parts</a></li>
                             <li><a href="milling-machining-precision-parts.html">Milling machining precision parts</a></li>
                             <li><a href="die-and-mould-manufacturing.html">Die and mould manufacturing</a></li>
                             <li><a href="jig-and-fixture.html">Jig & fixture</a></li>
@@ -155,12 +155,17 @@ const SITE_FOOTER = String.raw`
     </footer>
     <!-- Footer End -->`;
 
+const SITE_WHATSAPP_FLOAT = String.raw`
+    <a class="machnix-whatsapp-float" href="https://wa.me/60104612145?text=Hi%20MACHNIX%20ENGINEERING%2C%20I%20would%20like%20to%20enquire%20about%20your%20CNC%20machining%20services." target="_blank" rel="noopener" aria-label="Chat with MACHNIX ENGINEERING on WhatsApp">
+        <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+    </a>`;
+
 function renderSiteHeader() {
     document.write(SITE_HEADER);
 }
 
 function renderSiteFooter() {
-    document.write(SITE_FOOTER);
+    document.write(SITE_FOOTER + SITE_WHATSAPP_FLOAT);
 }
 
 function addMachnixHeadingVideos() {
