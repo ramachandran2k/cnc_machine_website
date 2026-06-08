@@ -7615,7 +7615,14 @@ header.main-header .header-sticky.active{
 	}
 
 	.hero .machnix-heading-video{
-		display: none !important;
+		display: block !important;
+	}
+
+	.hero .machnix-heading-video video,
+	.page-header .machnix-heading-video video{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
 	}
 
 	.hero .section-title h3{
