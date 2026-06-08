@@ -7476,10 +7476,30 @@ header.main-header .header-sticky.active{
 /* Footer link items text */
 .footer-links ul li {
     color: var(--text-color) !important;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .footer-links ul li a {
     color: var(--text-color) !important;
+    overflow-wrap: anywhere;
+}
+
+.footer-links ul li a[href^="mailto:"] {
+    text-transform: none;
+    font-size: 18px;
+    line-height: 1.45em;
+}
+
+.topbar-contact-info ul li.topbar-phone-item{
+	display: flex;
+	align-items: center;
+}
+
+.topbar-contact-info ul li.topbar-phone-item p a{
+	display: block;
+	color: inherit;
+	line-height: inherit;
 }
 
 .footer-links ul li:hover a {

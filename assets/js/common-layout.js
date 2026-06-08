@@ -24,7 +24,7 @@ const SITE_HEADER = String.raw`
                 <div class="col-lg-9 col-md-12">
                     <div class="topbar-contact-info">
                         <ul>
-                            <li><a href="tel:+60104612145"><div class="icon-box"><img src="assets/images/icon-phone.svg" alt=""></div><p>+60 10 461 2145</p></a></li>
+                            <li class="topbar-phone-item"><div class="icon-box"><img src="assets/images/icon-phone.svg" alt=""></div><p><a href="tel:+60104612145">+60 10 461 2145</a><a href="tel:+60102632145">+60 10 263 2145</a></p></li>
                             <li><a href="mailto:machnixengineering2025@gmail.com"><div class="icon-box"><img src="assets/images/icon-mail.svg" alt=""></div><p>machnixengineering2025@gmail.com</p></a></li>
                         </ul>
                         <div class="topbar-qoute-btn">
@@ -81,7 +81,7 @@ const SITE_FOOTER = String.raw`
             </div>
 
             <div class="row">
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-4 col-md-12">
                     <div class="about-footer">
                         <div class="footer-logo">
                             <img src="assets/images/machnix-logo-color.png" alt="MACHNIX ENGINEERING (M) SDN BHD">
@@ -115,7 +115,7 @@ const SITE_FOOTER = String.raw`
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-md-4 col-6">
+                <div class="col-lg-3 col-md-4 col-6">
                     <div class="footer-links">
                         <h3>Services</h3>
                         <ul>
@@ -130,11 +130,11 @@ const SITE_FOOTER = String.raw`
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-md-4 col-12">
+                <div class="col-lg-3 col-md-4 col-12">
                     <div class="footer-links">
                         <h3>Contact</h3>
                         <ul>
-                            <li><a href="tel:+60104612145">+60 10 461 2145</a></li>
+                            <li><a href="tel:+60104612145">+60 10 461 2145</a><br><a href="tel:+60102632145">+60 10 263 2145</a></li>
                             <li><a href="mailto:machnixengineering2025@gmail.com">machnixengineering2025@gmail.com</a></li>
                             <li>No. 5, Lorong Perwira 3, Taman Perwira, 14100 Simpang Ampat, Pulau Pinang, Malaysia</li>
                         </ul>
