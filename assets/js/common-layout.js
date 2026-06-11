@@ -24,7 +24,7 @@ const SITE_HEADER = String.raw`
                 <div class="col-lg-9 col-md-12">
                     <div class="topbar-contact-info">
                         <ul>
-                            <li class="topbar-phone-item"><div class="icon-box"><img src="assets/images/icon-phone.svg" alt=""></div><p><a href="tel:+60104612145">+60 10 461 2145</a><a href="tel:+60102632145">+60 10 263 2145</a></p></li>
+                            <li class="topbar-phone-item"><div class="icon-box"><img src="assets/images/icon-phone.svg" alt=""></div><p><a href="tel:+60102632145">+60 10 263 2145</a></p></li>
                             <li><a href="mailto:machnixengineering2025@gmail.com"><div class="icon-box"><img src="assets/images/icon-mail.svg" alt=""></div><p>machnixengineering2025@gmail.com</p></a></li>
                         </ul>
                         <div class="topbar-qoute-btn">
@@ -97,7 +97,7 @@ const SITE_FOOTER = String.raw`
                                 <li><a href="#" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
                                 <li><a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                <li><a href="https://wa.me/60104612145" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                <li><a href="https://wa.me/60102632145" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -134,7 +134,7 @@ const SITE_FOOTER = String.raw`
                     <div class="footer-links">
                         <h3>Contact</h3>
                         <ul>
-                            <li><a href="tel:+60104612145">+60 10 461 2145</a><br><a href="tel:+60102632145">+60 10 263 2145</a></li>
+                            <li><a href="tel:+60102632145">+60 10 263 2145</a></li>
                             <li><a href="mailto:machnixengineering2025@gmail.com">machnixengineering2025@gmail.com</a></li>
                             <li>No. 5, Lorong Perwira 3, Taman Perwira, 14100 Simpang Ampat, Pulau Pinang, Malaysia</li>
                         </ul>
@@ -156,7 +156,7 @@ const SITE_FOOTER = String.raw`
     <!-- Footer End -->`;
 
 const SITE_WHATSAPP_FLOAT = String.raw`
-    <a class="machnix-whatsapp-float" href="https://wa.me/60104612145?text=Hi%20MACHNIX%20ENGINEERING%2C%20I%20would%20like%20to%20enquire%20about%20your%20CNC%20machining%20services." target="_blank" rel="noopener" aria-label="Chat with MACHNIX ENGINEERING on WhatsApp">
+    <a class="machnix-whatsapp-float" href="https://wa.me/60102632145?text=Hi%20MACHNIX%20ENGINEERING%2C%20I%20would%20like%20to%20enquire%20about%20your%20CNC%20machining%20services." target="_blank" rel="noopener" aria-label="Chat with MACHNIX ENGINEERING on WhatsApp">
         <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
     </a>`;
 

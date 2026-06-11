@@ -4628,6 +4628,30 @@ header.main-header .header-sticky.active{
 	color: var(--text-color);
 }
 
+.contact-form .form-file-label{
+	display: block;
+	font-size: 15px;
+	font-weight: 600;
+	color: var(--primary-color);
+	margin-bottom: 10px;
+}
+
+.contact-form .form-file-input{
+	padding: 13px 16px;
+	line-height: 1.4em;
+}
+
+.contact-form .form-file-input::file-selector-button{
+	border: 0;
+	border-radius: 8px;
+	background: var(--accent-color);
+	color: var(--white-color);
+	font-weight: 600;
+	padding: 9px 14px;
+	margin-right: 14px;
+	cursor: pointer;
+}
+
 .google-map-iframe,
 .google-map-iframe iframe{
     height: 600px;
